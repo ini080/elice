@@ -13,9 +13,6 @@ The Key Concepts
 @ulend
 @snapend
 
-@snap[south-west template-note text-white] Covered background image template. @snapend
-
-+++?image=template/img/dataflow.png&size=contain @title[Contained Background]
 
 ### Each slide in this presentation is provided as a *template*.
 
