@@ -12,7 +12,14 @@ The Key Concepts
 - Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 @ulend
 @snapend
+
+@snap[south-west template-note text-white] Covered background image template. @snapend
+
++++?image=template/img/dataflow.png&size=contain @title[Contained Background]
+
 ### Each slide in this presentation is provided as a *template*.
+
+
 
 <br><br>
 
